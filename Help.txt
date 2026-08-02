@@ -1,0 +1,5 @@
+Once the containers are up:
+
+Frontend App: Open http://localhost:3000
+FastAPI Swagger UI: Open http://localhost:8000/api/v1/docs
+Health Check Endpoint: Open http://localhost:8000/api/v1/health
